@@ -23,7 +23,7 @@ Here is a live look at my GitHub activity, streaks, and most used languages:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adiiithyaan&show_icons=true&theme=tokyonight&count_private=true" alt="Adithyan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiiithyaan&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiiithyaan&layout=compact&theme=dracula" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
